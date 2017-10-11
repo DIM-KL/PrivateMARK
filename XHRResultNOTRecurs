@@ -1,0 +1,36 @@
+var xhr = new XMLHttpRequest();
+var mass, ptr;
+ptr = 0 ;
+mass = ["https://vk.com/chelovechestvo",
+		"https://vk.com/rules4life",
+		"https://vk.com/ezotericland"];
+function parseress(res, ptr){
+//	console.log(res.querySelector('#public_followers > a > div > span.header_count.fl_l').innerText);
+//var el = res.querySelector('#send_post');
+
+	console.log(res);
+}
+	
+	xhr.open('GET', mass[ptr], true);
+	//xhr.responseType = "document"
+	xhr.send();
+	xhr.onreadystatechange = fstate;
+
+function fstate(){
+	if (xhr.readyState == 4) {
+		if (xhr.status == 200) {
+			
+			parseress(xhr.response, ptr);
+				if (++ptr < mass.length) {
+					xhr.open('GET', mass[ptr], true);
+					xhr.responseType = "document"
+					xhr.send();
+					xhr.onreadystatechange = fstate;
+					return 3;
+				} else {return 4};
+
+			}
+		}
+
+
+}
