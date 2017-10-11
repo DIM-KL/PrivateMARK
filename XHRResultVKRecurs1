@@ -1,0 +1,79 @@
+function trim(str){
+	RegEx=/\s/g;
+	return str.replace(RegEx,"");
+};
+
+
+
+var results = document.getElementById('results');
+var mass = results.querySelectorAll(".groups_row .info .title a");
+
+var outerrmass = new Array();
+var cur = new Object();
+/*
+cur = {url,
+		name,
+		peoplecount}
+*/
+
+
+//---------------------------------------
+
+var xhr = new XMLHttpRequest();
+var  ptr;
+ptr = 0 ;
+
+
+function parseress(res, el){
+	var open, protect, none, err;
+
+	open = '<button class="flat_button addpost_button" id="send_post" onclick="wall.sendPost()">Отправить</button>';
+	protect = '<button class="flat_button addpost_button" id="send_post" onclick="wall.sendPost()">Предложить новость</button>';
+	err = 'ошибка';
+	if (res.indexOf(open) > 0){console.log(el.href)};
+	if ((res.toLowerCase()).indexOf(err) > 0){console.log('ERROR!!!')};
+	/*
+var el = res.querySelector('#send_post');
+	console.log(el);
+	if (el != null && el.innerText == "Отправить") {
+		debugger;
+		cur.url = res.documentURI;
+		cur.name = el.innerText;
+		try {
+		cur.peoplecount = Number(trim(res.querySelector('#public_followers > a > div > span.header_count.fl_l').innerText));
+		} catch(err) {debugger}
+
+		outerrmass.push(cur);
+		console.log(res.documentURI);
+	};*/
+
+}
+	
+	xhr.open('POST', mass[ptr].href, true);
+	//xhr.responseType = "document"
+	xhr.send();
+	xhr.onreadystatechange = fstate;
+
+function fstate(){
+	if (xhr.readyState == 4) {
+		if (xhr.status == 200) {
+			
+			parseress(xhr.responseText, mass[ptr]);
+				if (++ptr < mass.length) {
+					xhr.open('POST', mass[ptr].href, true);
+					//xhr.responseType = "document"
+					debugger;
+					setTimeout(xhr.send, 1000);
+					xhr.onreadystatechange = fstate;
+					//return 3;
+				} else {/*return 4*/ endxhrthread()};
+
+			}
+		}
+
+
+}
+
+function endxhrthread(){
+alert('Haribol')
+}
