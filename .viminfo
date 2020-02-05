@@ -1,0 +1,1387 @@
+# Этот файл viminfo автоматически создан Vim 8.1.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Последний Шаблон поиска:
+~Msle0~/\<browser\>
+
+# Последний Замена Шаблон поиска:
+~MSle0&tagbar_ctags_bin = 'bin/ctags'
+
+# Последняя строка для замены:
+$
+
+# Командная строка, история (начиная от свежего к старому):
+:w
+|2,0,1580613245,,"w"
+:wq
+|2,0,1580605645,,"wq"
+:s
+|2,0,1580605323,,"s"
+:!nw ./
+|2,0,1580579024,,"!nw ./"
+:wa
+|2,0,1580259235,,"wa"
+:vsplit
+|2,0,1580258759,,"vsplit"
+:q
+|2,0,1580257392,,"q"
+:qa
+|2,0,1580070176,,"qa"
+:bd
+|2,0,1580061995,,"bd"
+:ntab
+|2,0,1580061947,,"ntab"
+:tabs
+|2,0,1580061925,,"tabs"
+:newtab
+|2,0,1580061909,,"newtab"
+:Tagbar
+|2,0,1576938411,,"Tagbar"
+:e ./style.css
+|2,0,1576870155,,"e ./style.css"
+:vsp
+|2,0,1576870142,,"vsp"
+:sp
+|2,0,1576868804,,"sp"
+:x
+|2,0,1576868797,,"x"
+:PluginInstall
+|2,0,1576868784,,"PluginInstall"
+:e ~/.vimrc
+|2,0,1576868722,,"e ~/.vimrc"
+:set ballooneval
+|2,0,1576866341,,"set ballooneval"
+:set bexpr="hariboll"
+|2,0,1576866312,,"set bexpr=\"hariboll\""
+:r!man ctags
+|2,0,1576608420,,"r!man ctags"
+:w ./.gitignore
+|2,0,1576527164,,"w ./.gitignore"
+:w!
+|2,0,1576417300,,"w!"
+:!gvim ./index.html &
+|2,0,1576416977,,"!gvim ./index.html &"
+:!gwim ./index.html &
+|2,0,1576416960,,"!gwim ./index.html &"
+:e ~/.vimrc!
+|2,0,1576180342,,"e ~/.vimrc!"
+:e! ~/.vimrc!
+|2,0,1576180325,,"e! ~/.vimrc!"
+:!nw ./ &
+|2,0,1576177071,,"!nw ./ &"
+:!nw& ./
+|2,0,1576177043,,"!nw& ./"
+:bn
+|2,0,1576162811,,"bn"
+:vs
+|2,0,1576162796,,"vs"
+:e ./index.html
+|2,0,1576162607,,"e ./index.html"
+:bd!
+|2,0,1576003759,,"bd!"
+:r!esctags ./index.html
+|2,0,1576003735,,"r!esctags ./index.html"
+:enew
+|2,0,1576003713,,"enew"
+:TlistToggle
+|2,0,1576003674,,"TlistToggle"
+:e ./generate-form.js
+|2,0,1576003618,,"e ./generate-form.js"
+:TlistShowTag
+|2,0,1576003595,,"TlistShowTag"
+:TlistHighlightTag
+|2,0,1576003577,,"TlistHighlightTag"
+:TlistOpen
+|2,0,1576003548,,"TlistOpen"
+:bf
+|2,0,1576002977,,"bf"
+:TlistOpen 
+|2,0,1576002585,,"TlistOpen "
+:e ~/.ctags
+|2,0,1575904189,,"e ~/.ctags"
+:w ./.ctags
+|2,0,1575904175,,"w ./.ctags"
+:r!esctags ./generate-form.js
+|2,0,1575900739,,"r!esctags ./generate-form.js"
+:enew!
+|2,0,1575900671,,"enew!"
+:e
+|2,0,1575900656,,"e"
+:w generate-form.js
+|2,0,1575899627,,"w generate-form.js"
+:generate-form.js
+|2,0,1575899608,,"generate-form.js"
+
+# Строка поиска, история (начиная от свежего к старому):
+? \<browser\>
+|2,1,1580603068,,"\\<browser\\>"
+?//
+|2,1,1580602488,47,"/"
+?/Load
+|2,1,1577379182,47,"Load"
+?/--extras
+|2,1,1576608459,47,"--extras"
+?/JavaScript
+|2,1,1575897106,47,"JavaScript"
+?/Javascript
+|2,1,1575897091,47,"Javascript"
+?/javascript
+|2,1,1575897078,47,"javascript"
+? \s\+$
+|2,1,1575894821,,"\\s\\+$"
+?/.ctag
+|2,1,1575799029,47,".ctag"
+? \<base\>
+|2,1,1575483943,,"\\<base\\>"
+? \<закрытие\>
+|2,1,1575483943,,"\\<закрытие\\>"
+? \<LEFT\>
+|2,1,1575483942,,"\\<LEFT\\>"
+?/--needed
+|2,1,1575380633,47,"--needed"
+?/count
+|2,1,1572530305,47,"count"
+?/count_workspace
+|2,1,1572002096,47,"count_workspace"
+?/9
+|2,1,1572002046,47,"9"
+?/function
+|2,1,1571714932,47,"function"
+?/function debug
+|2,1,1571713619,47,"function debug"
+?/awful
+|2,1,1571712455,47,"awful"
+?/modkey
+|2,1,1571711029,47,"modkey"
+?/for
+|2,1,1571708978,47,"for"
+?/close
+|2,1,1571532054,47,"close"
+?/rus
+|2,1,1569858934,47,"rus"
+?/ru
+|2,1,1569858922,47,"ru"
+?/aic
+|2,1,1562419365,47,"aic"
+?/wd719x
+|2,1,1562419347,47,"wd719x"
+?/failed
+|2,1,1562416998,47,"failed"
+?/torrent
+|2,1,1562089086,47,"torrent"
+?/--
+|2,1,1561750733,47,"--"
+?/:
+|2,1,1560601752,47,":"
+?/gears
+|2,1,1545852992,47,"gears"
+? \<lxterminal\>
+|2,1,1545853108,,"\\<lxterminal\\>"
+?/open
+|2,1,1545264254,47,"open"
+?/browser
+|2,1,1545259564,47,"browser"
+?/open terminal
+|2,1,1545172344,47,"open terminal"
+?/terminal
+|2,1,1545170792,47,"terminal"
+?/mymainmenu
+|2,1,1545170650,47,"mymainmenu"
+?/awesome
+|2,1,1545169520,47,"awesome"
+?/manual
+|2,1,1545169475,47,"manual"
+?/"awesome'
+|2,1,1545169417,47,"\"awesome'"
+? \<false\>
+|2,1,1545169093,,"\\<false\\>"
+?/editor_cmd
+|2,1,1527683349,47,"editor_cmd"
+?/n
+|2,1,1525170173,47,"n"
+?/cli
+|2,1,1525170116,47,"cli"
+?/AF_INET
+|2,1,1511811543,47,"AF_INET"
+?/ifndef
+|2,1,1511811444,47,"ifndef"
+? \<chromium\>
+|2,1,1507946798,,"\\<chromium\\>"
+?/serverargs
+|2,1,1507541256,47,"serverargs"
+?/server
+|2,1,1507541220,47,"server"
+?/client
+|2,1,1506090099,47,"client"
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+@div class="window-tabs">
+|2,3,1576871305,,"div class=\"window-tabs\">"
+@div>
+|2,3,1576870231,,"div>"
+@em>
+|2,3,1576869872,,"em>"
+@p>
+|2,3,1576869775,,"p>"
+@q>
+|2,3,1576180874,,"q>"
+
+# Строка отладки, история (начиная от свежего к старому):
+
+# Регистры:
+"0	LINE	0
+					console,debug(calle);dd1
+|3,0,0,1,1,0,1580599753,"				console,debug(calle);dd1"
+"1	LINE	0
+				browser.contentWindow.addEventListener("popstate", () =>{alert("haribol")})
+|3,0,1,1,1,0,1580611060,"			browser.contentWindow.addEventListener(\"popstate\", () =>{alert(\"haribol\")})"
+"2	LINE	0
+	window.onload = function(){var me = {};};
+|3,0,2,1,1,0,1580604100,"window.onload = function(){var me = {};};"
+"3	LINE	0
+	try {browser.tt.ee = {}} catch(err) {alert(err)};
+|3,0,3,1,1,0,1580604099,"try {browser.tt.ee = {}} catch(err) {alert(err)};"
+"4	LINE	0
+		    		var browser.observerFrame = new Object()
+|3,0,4,1,1,0,1580602298,"	    		var browser.observerFrame = new Object()"
+"5	LINE	0
+					browser.observer.target = 
+|3,0,5,1,1,0,1580600141,"				browser.observer.target = "
+"6	LINE	0
+					console,debug(calle);dd1
+|3,0,6,1,1,0,1580590596,"				console,debug(calle);dd1"
+"7	LINE	0
+					console,debug(calle);
+|3,0,7,1,1,0,1580590529,"				console,debug(calle);"
+"8	LINE	0
+					console.debug(ev.currentTarget);
+|3,0,8,1,1,0,1580590526,"				console.debug(ev.currentTarget);"
+"9	LINE	0
+					surl.value = browser.contentWindow.location.href;
+|3,0,9,1,1,0,1580590525,"				surl.value = browser.contentWindow.location.href;"
+"a	CHAR	0
+	вы могли
+|3,0,10,0,1,0,1507767233,"вы могли"
+"q	CHAR	0
+	niafq�kD�kb�kD
+|3,0,26,0,1,0,1561751230,"niafq�kD�kb�kD"
+""-	CHAR	0
+	.
+|3,1,36,0,1,0,1580612455,"."
+
+# Глобальные отметки:
+'0  50  52  ~/eclipse/nw-browser/index.html
+|4,48,50,52,1580618136,"~/eclipse/nw-browser/index.html"
+'1  52  3  ~/eclipse/nw-browser/index.html
+|4,49,52,3,1580605645,"~/eclipse/nw-browser/index.html"
+'2  49  3  ~/eclipse/nw-browser/index.html
+|4,50,49,3,1580605645,"~/eclipse/nw-browser/index.html"
+'3  29  38  ~/eclipse/nw-browser/index.html
+|4,51,29,38,1580603817,"~/eclipse/nw-browser/index.html"
+'4  29  38  ~/eclipse/nw-browser/index.html
+|4,52,29,38,1580603817,"~/eclipse/nw-browser/index.html"
+'5  29  38  ~/eclipse/nw-browser/index.html
+|4,53,29,38,1580603817,"~/eclipse/nw-browser/index.html"
+'6  29  38  ~/eclipse/nw-browser/index.html
+|4,54,29,38,1580603817,"~/eclipse/nw-browser/index.html"
+'7  32  107  ~/eclipse/nw-browser/index.html
+|4,55,32,107,1580600468,"~/eclipse/nw-browser/index.html"
+'8  30  83  ~/eclipse/nw-browser/index.html
+|4,56,30,83,1580600468,"~/eclipse/nw-browser/index.html"
+'9  33  107  ~/eclipse/nw-browser/index.html
+|4,57,33,107,1580600468,"~/eclipse/nw-browser/index.html"
+
+# Список прыжков (сначала более свежие):
+-'  50  52  ~/eclipse/nw-browser/index.html
+|4,39,50,52,1580618136,"~/eclipse/nw-browser/index.html"
+-'  54  0  ~/eclipse/nw-browser/index.html
+|4,39,54,0,1580612464,"~/eclipse/nw-browser/index.html"
+-'  55  3  ~/eclipse/nw-browser/index.html
+|4,39,55,3,1580612463,"~/eclipse/nw-browser/index.html"
+-'  57  27  ~/eclipse/nw-browser/index.html
+|4,39,57,27,1580612461,"~/eclipse/nw-browser/index.html"
+-'  1  0  ~/eclipse/nw-browser/index.html
+|4,39,1,0,1580605800,"~/eclipse/nw-browser/index.html"
+-'  52  3  ~/eclipse/nw-browser/index.html
+|4,39,52,3,1580605645,"~/eclipse/nw-browser/index.html"
+-'  49  3  ~/eclipse/nw-browser/index.html
+|4,39,49,3,1580605645,"~/eclipse/nw-browser/index.html"
+-'  37  90  ~/eclipse/nw-browser/index.html
+|4,39,37,90,1580605502,"~/eclipse/nw-browser/index.html"
+-'  37  90  ~/eclipse/nw-browser/index.html
+|4,39,37,90,1580605502,"~/eclipse/nw-browser/index.html"
+-'  36  2  ~/eclipse/nw-browser/index.html
+|4,39,36,2,1580605501,"~/eclipse/nw-browser/index.html"
+-'  36  2  ~/eclipse/nw-browser/index.html
+|4,39,36,2,1580605501,"~/eclipse/nw-browser/index.html"
+-'  9  1  ~/eclipse/nw-browser/index.html
+|4,39,9,1,1580604628,"~/eclipse/nw-browser/index.html"
+-'  10  0  ~/eclipse/nw-browser/index.html
+|4,39,10,0,1580604628,"~/eclipse/nw-browser/index.html"
+-'  11  1  ~/eclipse/nw-browser/index.html
+|4,39,11,1,1580604628,"~/eclipse/nw-browser/index.html"
+-'  9  1  ~/eclipse/nw-browser/index.html
+|4,39,9,1,1580604628,"~/eclipse/nw-browser/index.html"
+-'  10  0  ~/eclipse/nw-browser/index.html
+|4,39,10,0,1580604628,"~/eclipse/nw-browser/index.html"
+-'  11  1  ~/eclipse/nw-browser/index.html
+|4,39,11,1,1580604628,"~/eclipse/nw-browser/index.html"
+-'  30  73  ~/eclipse/nw-browser/index.html
+|4,39,30,73,1580604626,"~/eclipse/nw-browser/index.html"
+-'  30  73  ~/eclipse/nw-browser/index.html
+|4,39,30,73,1580604626,"~/eclipse/nw-browser/index.html"
+-'  1  0  ~/eclipse/nw-browser/index.html
+|4,39,1,0,1580603846,"~/eclipse/nw-browser/index.html"
+-'  29  38  ~/eclipse/nw-browser/index.html
+|4,39,29,38,1580603817,"~/eclipse/nw-browser/index.html"
+-'  29  38  ~/eclipse/nw-browser/index.html
+|4,39,29,38,1580603817,"~/eclipse/nw-browser/index.html"
+-'  29  38  ~/eclipse/nw-browser/index.html
+|4,39,29,38,1580603817,"~/eclipse/nw-browser/index.html"
+-'  45  3  ~/eclipse/nw-browser/index.html
+|4,39,45,3,1580603068,"~/eclipse/nw-browser/index.html"
+-'  46  3  ~/eclipse/nw-browser/index.html
+|4,39,46,3,1580603068,"~/eclipse/nw-browser/index.html"
+-'  45  3  ~/eclipse/nw-browser/index.html
+|4,39,45,3,1580603068,"~/eclipse/nw-browser/index.html"
+-'  46  3  ~/eclipse/nw-browser/index.html
+|4,39,46,3,1580603068,"~/eclipse/nw-browser/index.html"
+-'  49  18  ~/eclipse/nw-browser/index.html
+|4,39,49,18,1580603067,"~/eclipse/nw-browser/index.html"
+-'  46  18  ~/eclipse/nw-browser/index.html
+|4,39,46,18,1580603067,"~/eclipse/nw-browser/index.html"
+-'  47  18  ~/eclipse/nw-browser/index.html
+|4,39,47,18,1580603067,"~/eclipse/nw-browser/index.html"
+-'  10  0  ~/eclipse/nw-browser/index.html
+|4,39,10,0,1580602603,"~/eclipse/nw-browser/index.html"
+-'  30  34  ~/eclipse/nw-browser/index.html
+|4,39,30,34,1580602602,"~/eclipse/nw-browser/index.html"
+-'  31  0  ~/eclipse/nw-browser/index.html
+|4,39,31,0,1580602329,"~/eclipse/nw-browser/index.html"
+-'  31  0  ~/eclipse/nw-browser/index.html
+|4,39,31,0,1580602329,"~/eclipse/nw-browser/index.html"
+-'  32  72  ~/eclipse/nw-browser/index.html
+|4,39,32,72,1580601186,"~/eclipse/nw-browser/index.html"
+-'  33  72  ~/eclipse/nw-browser/index.html
+|4,39,33,72,1580601186,"~/eclipse/nw-browser/index.html"
+-'  32  72  ~/eclipse/nw-browser/index.html
+|4,39,32,72,1580601186,"~/eclipse/nw-browser/index.html"
+-'  33  72  ~/eclipse/nw-browser/index.html
+|4,39,33,72,1580601186,"~/eclipse/nw-browser/index.html"
+-'  1  0  ~/eclipse/nw-browser/index.html
+|4,39,1,0,1580600474,"~/eclipse/nw-browser/index.html"
+-'  32  83  ~/eclipse/nw-browser/index.html
+|4,39,32,83,1580600468,"~/eclipse/nw-browser/index.html"
+-'  40  0  ~/eclipse/nw-browser/index.html
+|4,39,40,0,1580600454,"~/eclipse/nw-browser/index.html"
+-'  38  0  ~/eclipse/nw-browser/index.html
+|4,39,38,0,1580600454,"~/eclipse/nw-browser/index.html"
+-'  41  0  ~/eclipse/nw-browser/index.html
+|4,39,41,0,1580600454,"~/eclipse/nw-browser/index.html"
+-'  39  0  ~/eclipse/nw-browser/index.html
+|4,39,39,0,1580600454,"~/eclipse/nw-browser/index.html"
+-'  40  0  ~/eclipse/nw-browser/index.html
+|4,39,40,0,1580600454,"~/eclipse/nw-browser/index.html"
+-'  38  0  ~/eclipse/nw-browser/index.html
+|4,39,38,0,1580600454,"~/eclipse/nw-browser/index.html"
+-'  41  0  ~/eclipse/nw-browser/index.html
+|4,39,41,0,1580600454,"~/eclipse/nw-browser/index.html"
+-'  39  0  ~/eclipse/nw-browser/index.html
+|4,39,39,0,1580600454,"~/eclipse/nw-browser/index.html"
+-'  1  0  ~/eclipse/nw-browser/index.html
+|4,39,1,0,1580599870,"~/eclipse/nw-browser/index.html"
+-'  31  2  ~/eclipse/nw-browser/index.html
+|4,39,31,2,1580599251,"~/eclipse/nw-browser/index.html"
+-'  1  0  ~/eclipse/nw-browser/index.html
+|4,39,1,0,1580591993,"~/eclipse/nw-browser/index.html"
+-'  59  10  ~/eclipse/nw-browser/index.html
+|4,39,59,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  35  10  ~/eclipse/nw-browser/index.html
+|4,39,35,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  60  10  ~/eclipse/nw-browser/index.html
+|4,39,60,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  58  10  ~/eclipse/nw-browser/index.html
+|4,39,58,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  57  10  ~/eclipse/nw-browser/index.html
+|4,39,57,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  39  10  ~/eclipse/nw-browser/index.html
+|4,39,39,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  35  10  ~/eclipse/nw-browser/index.html
+|4,39,35,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  54  10  ~/eclipse/nw-browser/index.html
+|4,39,54,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  38  10  ~/eclipse/nw-browser/index.html
+|4,39,38,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  58  10  ~/eclipse/nw-browser/index.html
+|4,39,58,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  40  10  ~/eclipse/nw-browser/index.html
+|4,39,40,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  36  10  ~/eclipse/nw-browser/index.html
+|4,39,36,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  55  10  ~/eclipse/nw-browser/index.html
+|4,39,55,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  38  10  ~/eclipse/nw-browser/index.html
+|4,39,38,10,1580591918,"~/eclipse/nw-browser/index.html"
+-'  53  3  ~/eclipse/nw-browser/index.html
+|4,39,53,3,1580590636,"~/eclipse/nw-browser/index.html"
+-'  51  3  ~/eclipse/nw-browser/index.html
+|4,39,51,3,1580590636,"~/eclipse/nw-browser/index.html"
+-'  50  3  ~/eclipse/nw-browser/index.html
+|4,39,50,3,1580590636,"~/eclipse/nw-browser/index.html"
+-'  47  3  ~/eclipse/nw-browser/index.html
+|4,39,47,3,1580590636,"~/eclipse/nw-browser/index.html"
+-'  51  3  ~/eclipse/nw-browser/index.html
+|4,39,51,3,1580590636,"~/eclipse/nw-browser/index.html"
+-'  48  3  ~/eclipse/nw-browser/index.html
+|4,39,48,3,1580590636,"~/eclipse/nw-browser/index.html"
+-'  32  3  ~/eclipse/nw-browser/index.html
+|4,39,32,3,1580590636,"~/eclipse/nw-browser/index.html"
+-'  25  4  ~/eclipse/nw-browser/index.html
+|4,39,25,4,1580586849,"~/eclipse/nw-browser/index.html"
+-'  25  4  ~/eclipse/nw-browser/index.html
+|4,39,25,4,1580586849,"~/eclipse/nw-browser/index.html"
+-'  25  4  ~/eclipse/nw-browser/index.html
+|4,39,25,4,1580586849,"~/eclipse/nw-browser/index.html"
+-'  25  4  ~/eclipse/nw-browser/index.html
+|4,39,25,4,1580586849,"~/eclipse/nw-browser/index.html"
+-'  25  4  ~/eclipse/nw-browser/index.html
+|4,39,25,4,1580586849,"~/eclipse/nw-browser/index.html"
+-'  25  4  ~/eclipse/nw-browser/index.html
+|4,39,25,4,1580586849,"~/eclipse/nw-browser/index.html"
+-'  28  0  ~/eclipse/nw-browser/index.html
+|4,39,28,0,1580585973,"~/eclipse/nw-browser/index.html"
+-'  28  0  ~/eclipse/nw-browser/index.html
+|4,39,28,0,1580585973,"~/eclipse/nw-browser/index.html"
+-'  28  0  ~/eclipse/nw-browser/index.html
+|4,39,28,0,1580585973,"~/eclipse/nw-browser/index.html"
+-'  28  0  ~/eclipse/nw-browser/index.html
+|4,39,28,0,1580585973,"~/eclipse/nw-browser/index.html"
+-'  28  0  ~/eclipse/nw-browser/index.html
+|4,39,28,0,1580585973,"~/eclipse/nw-browser/index.html"
+-'  28  0  ~/eclipse/nw-browser/index.html
+|4,39,28,0,1580585973,"~/eclipse/nw-browser/index.html"
+-'  1  0  ~/eclipse/nw-browser/index.html
+|4,39,1,0,1580585939,"~/eclipse/nw-browser/index.html"
+-'  8  0  ~/eclipse/nw-browser/index.html
+|4,39,8,0,1580581114,"~/eclipse/nw-browser/index.html"
+-'  8  0  ~/eclipse/nw-browser/index.html
+|4,39,8,0,1580581114,"~/eclipse/nw-browser/index.html"
+-'  8  0  ~/eclipse/nw-browser/index.html
+|4,39,8,0,1580581114,"~/eclipse/nw-browser/index.html"
+-'  8  0  ~/eclipse/nw-browser/index.html
+|4,39,8,0,1580581114,"~/eclipse/nw-browser/index.html"
+-'  8  0  ~/eclipse/nw-browser/index.html
+|4,39,8,0,1580581114,"~/eclipse/nw-browser/index.html"
+-'  8  0  ~/eclipse/nw-browser/index.html
+|4,39,8,0,1580581114,"~/eclipse/nw-browser/index.html"
+-'  8  0  ~/eclipse/nw-browser/index.html
+|4,39,8,0,1580581114,"~/eclipse/nw-browser/index.html"
+-'  25  4  ~/eclipse/nw-browser/index.html
+|4,39,25,4,1580578386,"~/eclipse/nw-browser/index.html"
+-'  1  0  ~/eclipse/nw-browser/index.html
+|4,39,1,0,1580578071,"~/eclipse/nw-browser/index.html"
+-'  1  0  ~/eclipse/nw-browser/dep.html
+|4,39,1,0,1580262636,"~/eclipse/nw-browser/dep.html"
+-'  1  0  ~/eclipse/nw-browser/dep.html
+|4,39,1,0,1580262636,"~/eclipse/nw-browser/dep.html"
+-'  1  0  ~/eclipse/nw-browser/dep.html
+|4,39,1,0,1580262636,"~/eclipse/nw-browser/dep.html"
+-'  1  0  ~/eclipse/nw-browser/dep.html
+|4,39,1,0,1580262636,"~/eclipse/nw-browser/dep.html"
+-'  1  0  ~/eclipse/nw-browser/dep.html
+|4,39,1,0,1580262636,"~/eclipse/nw-browser/dep.html"
+-'  1  0  ~/eclipse/nw-browser/dep.html
+|4,39,1,0,1580262636,"~/eclipse/nw-browser/dep.html"
+
+# История местных отметок (от более свежих к старым):
+
+> ~/eclipse/nw-browser/index.html
+	*	1580618036	0
+	"	50	52
+	^	50	53
+	.	50	52
+	+	13	34
+	+	13	53
+	+	14	0
+	+	13	54
+	+	12	38
+	+	14	82
+	+	22	13
+	+	24	10
+	+	25	44
+	+	28	2
+	+	25	44
+	+	26	41
+	+	27	47
+	+	28	11
+	+	28	2
+	+	28	41
+	+	29	10
+	+	42	0
+	+	29	38
+	+	37	55
+	+	26	0
+	+	25	0
+	+	37	58
+	+	37	2
+	+	39	58
+	+	39	2
+	+	37	52
+	+	37	91
+	+	37	80
+	+	36	2
+	+	29	29
+	+	34	3
+	+	32	0
+	+	37	55
+	+	37	67
+	+	34	0
+	+	32	90
+	+	32	79
+	+	32	29
+	+	37	11
+	+	42	7
+	+	55	4
+	+	29	3
+	+	32	114
+	+	52	0
+	+	52	100
+	+	32	109
+	+	32	112
+	+	33	29
+	+	32	24
+	+	32	48
+	+	29	117
+	+	32	112
+	+	42	2
+	+	32	24
+	+	33	24
+	+	34	3
+	+	35	3
+	+	38	4
+	+	37	3
+	+	34	24
+	+	35	24
+	+	37	24
+	+	32	64
+	+	29	0
+	+	30	1
+	+	40	1
+	+	32	99
+	+	29	7
+	+	51	4
+	+	52	4
+	+	29	35
+	+	46	0
+	+	29	39
+	+	46	18
+	+	29	0
+	+	30	0
+	+	40	0
+	+	31	5
+	+	39	39
+	+	30	82
+	+	33	24
+	+	34	24
+	+	35	24
+	+	37	91
+	+	36	36
+	+	37	89
+	+	37	88
+	+	52	3
+	+	34	33
+	+	52	0
+	+	58	0
+	+	48	0
+	+	47	0
+	+	52	0
+	+	47	78
+	+	57	28
+	+	47	43
+	+	57	27
+	+	50	52
+
+> ~/eclipse/nw-browser/.git/COMMIT_EDITMSG
+	*	1580257396	0
+	"	1	67
+	^	1	69
+	.	1	69
+	+	1	81
+	+	1	69
+
+> ~/eclipse/nw-browser/style.css
+	*	1580257095	0
+	"	4	12
+	^	12	20
+	.	12	19
+	+	4	13
+	+	5	0
+	+	5	33
+	+	19	0
+	+	7	12
+	+	8	19
+	+	8	12
+	+	8	1
+	+	7	8
+	+	15	7
+	+	16	13
+	+	17	0
+	+	7	0
+	+	5	0
+	+	7	11
+	+	8	20
+	+	11	6
+	+	15	4
+	+	16	0
+	+	17	0
+	+	16	12
+	+	17	11
+	+	12	23
+	+	17	0
+	+	12	19
+
+> /usr/share/vim/vim81/doc/usr_toc.txt
+	*	1580061980	0
+	"	1	0
+
+> ~/Desktop/quake3.desktop
+	*	1578019039	0
+	"	1	0
+
+> /usr/bin/cloud9
+	*	1577491638	0
+	"	3	0
+
+> ~/Desktop/firefox.desktop
+	*	1577491546	0
+	"	1	0
+
+> ~/Desktop/cloud9.desktop
+	*	1577491472	0
+	"	6	19
+	^	6	11
+	.	6	0
+	+	6	0
+
+> /etc/group
+	*	1577471134	0
+	"	36	0
+
+> ~/Desktop/Vkontakte DJ.lnk
+	*	1577445249	0
+	"	1	0
+
+> /etc/mkinitcpio.conf
+	*	1577379182	0
+	"	1	0
+
+> ~/pfroject/sliderbox/Sliderbox.html
+	*	1576939399	0
+	"	22	147
+	^	22	148
+	.	22	148
+	+	22	148
+
+> ~/pfroject/sliderbox/SliderBox.js
+	*	1576939120	0
+	"	21	0
+
+> ~/__Tagbar__.1
+	*	1576938468	0
+	"	26	10
+	.	53	0
+	+	58	0
+	+	53	0
+
+> ~/.vimrc
+	*	1576868760	0
+	"	52	24
+	^	52	25
+	.	52	25
+	+	142	3
+	+	117	21
+	+	142	10
+	+	137	11
+	+	142	22
+	+	142	0
+	+	143	22
+	+	144	34
+	+	108	13
+	+	142	1
+	+	108	0
+	+	142	0
+	+	125	0
+	+	116	0
+	+	64	9
+	+	64	0
+	+	64	38
+	+	55	0
+	+	46	17
+	+	46	0
+	+	46	18
+	+	46	0
+	+	64	0
+	+	46	0
+	+	47	0
+	+	88	0
+	+	166	0
+	+	131	0
+	+	12	0
+	+	48	23
+	+	49	32
+	+	49	0
+	+	49	31
+	+	49	23
+	+	51	0
+	+	49	8
+	+	49	32
+	+	49	0
+	+	76	1
+	+	78	1
+	+	81	1
+	+	81	44
+	+	76	0
+	+	78	0
+	+	81	0
+	+	81	43
+	+	78	1
+	+	81	1
+	+	81	44
+	+	81	41
+	+	81	42
+	+	81	62
+	+	84	0
+	+	81	0
+	+	82	0
+	+	58	27
+	+	22	0
+	+	78	0
+	+	77	50
+	+	49	0
+	+	50	0
+	+	51	0
+	+	55	0
+	+	77	50
+	+	59	0
+	+	77	0
+	+	79	0
+	+	77	0
+	+	135	0
+	+	77	0
+	+	49	0
+	+	60	1
+	+	62	0
+	+	60	26
+	+	61	0
+	+	60	27
+	+	77	0
+	+	23	7
+	+	24	7
+	+	25	7
+	+	27	11
+	+	28	11
+	+	23	9
+	+	24	9
+	+	25	9
+	+	27	13
+	+	28	13
+	+	25	0
+	+	23	6
+	+	24	9
+	+	25	9
+	+	27	13
+	+	28	13
+	+	23	5
+	+	24	5
+	+	25	5
+	+	27	9
+	+	28	9
+	+	53	0
+	+	52	25
+
+> ~/devep/Form-Designer/generate-form.js
+	*	1576774801	0
+	"	9	9
+
+> ~/devep/Form-Designer/__Tagbar__.1
+	*	1576774670	0
+	"	42	4
+	.	47	0
+	+	127	0
+	+	125	0
+	+	123	0
+	+	122	0
+	+	101	0
+	+	68	0
+	+	57	0
+	+	50	0
+	+	48	0
+	+	47	0
+
+> ~/eclipse/nw-browser/package.json
+	*	1576769685	0
+	"	4	19
+	^	4	20
+	.	4	19
+	+	4	19
+
+> ~/Desktop/deluge.desktop
+	*	1576766002	0
+	"	188	0
+
+> ~/devep/Form-Designer/style.css
+	*	1576609151	0
+	"	1	0
+
+> ~/devep/Form-Designer/index.html
+	*	1576607833	0
+	"	1	0
+	^	49	17
+	.	49	17
+	+	4	7
+	+	22	0
+	+	5	0
+	+	3	0
+	+	51	53
+	+	52	59
+	+	52	0
+	+	51	57
+	+	52	0
+	+	48	10
+	+	49	17
+
+> ~/status
+	*	1576527882	0
+	"	1	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1576527854	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
+
+> ~/.gitignore
+	*	1576527331	0
+	"	3	6
+	^	3	7
+	.	3	6
+	+	3	0
+	+	2	5
+	+	3	6
+
+> ~/[Vundle] Installer
+	*	1576180657	0
+	"	17	0
+	.	1	0
+	+	32	0
+	+	17	0
+	+	1	0
+
+> ~/.vimrc!
+	*	1576180346	0
+	"	1	0
+
+> /etc/bash.bashrc
+	*	1576162065	0
+	"	1	0
+
+> ~/devep/Form-Designer/__Tag_List__
+	*	1576003656	0
+	"	17	7
+	.	22	0
+	+	6	0
+	+	5	0
+	+	4	0
+	+	22	0
+
+> ~/.ctags
+	*	1575904193	0
+	"	1	0
+
+> ~/package/ctags-5.8/tags
+	*	1575903880	0
+	"	1	0
+
+> /usr/bin/locale-gen
+	*	1575903790	0
+	"	12	0
+
+> /etc/locale
+	*	1575902898	0
+	"	1	0
+
+> /etc/local
+	*	1575902886	0
+	"	1	0
+
+> ~/.bashrc
+	*	1575902795	0
+	"	1	0
+	^	11	34
+	.	11	33
+	+	11	33
+
+> ~/devep/Form-Designer/ui.js
+	*	1575899350	0
+	"	1	0
+	^	2	1
+	.	2	0
+	+	2	14
+	+	3	0
+	+	1	7
+	+	39	4
+	+	37	0
+	+	2	0
+
+> ~/devep/__Tagbar__.1
+	*	1575899182	0
+	"	1	0
+	.	26	0
+	+	26	0
+
+> ~/.vim/bundle/tagbar-javascript.vim/plugin/tagbar-javascript.vim
+	*	1575899170	0
+	"	16	0
+
+> ~/.vim/bundle/tagbar/plugin/tagbar.vim
+	*	1575899164	0
+	"	138	0
+
+> ~/.vim/bundle/tagbar/doc/tagbar.txt
+	*	1575899147	0
+	"	1104	33
+
+> ~/devep/form.js
+	*	1575897949	0
+	"	105	1
+	^	105	2
+	.	105	1
+	+	1	0
+	+	236	0
+	+	1	0
+	+	105	1
+
+> ~/.vim/bundle/tagbar/autoload/tagbar.vim
+	*	1575897721	0
+	"	4656	0
+
+> /usr/share/vim/vim81/doc/develop.txt
+	*	1575896886	0
+	"	135	23
+
+> ~/devep/NERD_tree_3
+	*	1575896130	0
+	"	65	15
+	.	1	0
+	+	1	0
+
+> /usr/share/vim/vim81/doc/indent.txt
+	*	1575895298	0
+	"	608	48
+
+> ~/devep/Form-Designer/[Vundle] Installer
+	*	1575894910	0
+	"	15	0
+	.	1	0
+	+	15	0
+	+	1	0
+
+> ~/devep/Form-Designer/index.html.html
+	*	1575894850	0
+	"	96	0
+	^	2	0
+	.	78	0
+	+	78	0
+
+> /usr/share/vim/vim81/doc/eval.txt
+	*	1575806646	0
+	"	9756	42
+
+> ~/devep/Form-Designer/NERD_tree_1
+	*	1575806643	0
+	"	66	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/__Tagbar__.1
+	*	1575806593	0
+	"	13	4
+	.	25	0
+	+	25	0
+
+> ~/.vim/bundle/tagbar/doc/tags
+	*	1575805179	0
+	"	1	0
+
+> ~/.vim/bundle/tagbar/doc/__Tagbar__.1
+	*	1575805175	0
+	"	1	0
+
+> /usr/share/vim/vim81/doc/tagsrch.txt
+	*	1575804847	0
+	"	87	56
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1575804600	0
+	"	1	0
+
+> ~/eclipse/eclipse/tt/.project
+	*	1575800370	0
+	"	1	0
+
+> ~/devep/Form-Designer/tags
+	*	1575799856	0
+	"	214	11
+	.	2	0
+	+	2	0
+
+> ~/Desktop/Очистка_организма_курс
+	*	1575657831	0
+	"	5	66
+	^	5	68
+	.	5	66
+	+	4	89
+	+	5	2
+	+	4	104
+	+	5	66
+
+> /media/windows/d/Кришна/Мои интернет данныe.txt
+	*	1575563925	0
+	"	1	0
+
+> /usr/share/vim/vim81/doc/options.txt
+	*	1575484233	0
+	"	3969	0
+
+> ~/option-window
+	*	1575483976	0
+	"	70	0
+	.	1004	0
+	+	1004	0
+
+> /etc/fonts/conf.d/49-sansserif.conf
+	*	1575472462	0
+	"	8	87
+	^	8	88
+	.	8	0
+	+	8	86
+	+	8	0
+
+> /etc/fonts/fonts.conf
+	*	1575472313	0
+	"	31	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/nwjside/locales/am.pak.info
+	*	1575472175	0
+	"	1	0
+
+> /etc/fonts/conf.d/README
+	*	1575417704	0
+	"	18	56
+
+> /etc/fonts/fonts.dtd
+	*	1575417639	0
+	"	55	0
+
+> ~/Desktop/NW.js IDE.desktop
+	*	1575415682	0
+	"	1	0
+
+> ~/nwjside1/linux64.run
+	*	1575415237	0
+	"	1	0
+
+> ~/pfroject/rrr/package.json
+	*	1575228829	0
+	"	1	0
+
+> /boot/grub4dos/menu/fullconsolemenu.lst
+	*	1575057603	0
+	"	1	0
+	^	96	16
+	.	96	15
+	+	49	12
+	+	50	12
+	+	55	12
+	+	56	12
+	+	93	0
+	+	94	0
+	+	95	0
+	+	96	0
+	+	97	0
+	+	98	0
+	+	99	0
+	+	100	0
+	+	95	24
+	+	96	15
+
+> /boot/menu.lst
+	*	1575057577	0
+	"	22	0
+	^	58	6
+	.	28	12
+	+	27	12
+	+	28	12
+
+> /run/media/dimkl/CDROM/резюме димы.txt
+	*	1575037836	0
+	"	1	0
+
+> ~/nwjside/log
+	*	1574799681	0
+	"	1	0
+
+> /usr/bin/xfce4-session
+	*	1574736307	0
+	"	1	0
+
+> /media/windows/d/Саша/ДОМ/Домашняя горчица – приготовление горчицы из порошка в домашних условиях - Вкусная еда_files/lite.css
+	*	1574691104	0
+	"	1	0
+
+> ~/NERD_tree_1
+	*	1574525542	0
+	"	71	0
+	.	1	0
+	+	1	0
+
+> /usr/bin/startxfce4
+	*	1574271700	0
+	"	124	9
+	^	124	10
+	.	124	9
+	+	124	9
+
+> ~/.xinitrc
+	*	1574167758	0
+	"	1	0
+
+> /tmp/macOS-Linux/com.elevenpaths.easydoh.json
+	*	1573412311	0
+	"	1	0
+
+> /tmp/macOS-Linux/easydoh.py
+	*	1573412304	0
+	"	212	8
+
+> /tmp/macOS-Linux/install.sh
+	*	1573410881	0
+	"	1	0
+
+> ~/.config/awesome/rc.lua
+	*	1572530543	0
+	"	224	24
+	^	224	25
+	.	224	24
+	+	128	26
+	+	141	28
+	+	124	30
+	+	129	16
+	+	146	27
+	+	4	11
+	+	6	0
+	+	3	31
+	+	5	37
+	+	440	0
+	+	231	0
+	+	222	91
+	+	222	0
+	+	231	0
+	+	222	0
+	+	238	0
+	+	233	0
+	+	233	4
+	+	222	0
+	+	233	0
+	+	222	0
+	+	227	0
+	+	227	1
+	+	228	0
+	+	227	5
+	+	227	25
+	+	233	16
+	+	237	3
+	+	233	0
+	+	236	5
+	+	235	0
+	+	233	0
+	+	234	0
+	+	233	62
+	+	234	23
+	+	236	29
+	+	235	29
+	+	238	0
+	+	238	22
+	+	235	33
+	+	227	23
+	+	472	0
+	+	227	0
+	+	440	10
+	+	444	56
+	+	454	67
+	+	464	65
+	+	475	76
+	+	227	0
+	+	16	0
+	+	444	0
+	+	444	28
+	+	444	0
+	+	443	25
+	+	443	0
+	+	227	0
+	+	472	0
+	+	444	0
+	+	436	17
+	+	437	41
+	+	438	17
+	+	439	8
+	+	438	9
+	+	439	0
+	+	436	0
+	+	437	0
+	+	438	0
+	+	439	0
+	+	224	24
+	+	227	0
+	+	224	26
+	+	225	23
+	+	225	0
+	+	225	28
+	+	225	19
+	+	225	53
+	+	225	58
+	+	225	25
+	+	225	30
+	+	225	29
+	+	225	2
+	+	441	12
+	+	227	0
+	+	225	0
+	+	226	0
+	+	28	0
+	+	29	0
+	+	30	60
+	+	444	55
+	+	224	24
+	+	440	25
+	+	224	24
+	+	441	21
+	+	224	24
+	+	441	2
+	+	444	42
+	+	224	24
+
+> /run/media/dimkl/FILM/.Trash-1000/info/Kosmicheskaja.Odisseja.2001.1968.RUS.HDRip.XviD.AC3.-HQ-ViDEO.avi.trashinfo
+	*	1572178998	0
+	"	1	0
+
+> ~/.config/awesome/copy_rc.lua
+	*	1571715024	0
+	"	229	48
+	^	26	52
+
+> ~/NERD_tree_2
+	*	1571710124	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> /usr/share/vim/vim81/doc/usr_02.txt
+	*	1571709097	0
+	"	240	0
+
+> ~/11111
+	*	1571704903	0
+	"	2	0
+
+> ~/Ëþáý - Ïåñíè î ëþäÿõ - Ðåáÿòà ñ íàøåãî äâîðà.mp3
+	*	1571704884	0
+	"	1	0
+
+> ~/work
+	*	1571647252	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml
+	*	1571588542	0
+	"	28	9
+
+> ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml
+	*	1571585740	0
+	"	73	49
+
+> ~/Desktop/xfce4-settings-editor.desktop
+	*	1571530408	0
+	"	107	0
+
+> ~/devep/web/ffide/hello/manifest.webapp
+	*	1571406681	0
+	"	1	0
+
+> ~/devep/web/ffide/hello/index.html
+	*	1571406649	0
+	"	1	0
+
+> ~/devep/tutor/git/grit/.git/COMMIT_EDITMSG
+	*	1571082874	0
+	"	18	12
+	^	18	13
+	.	18	12
+	+	17	250
+	+	18	12
+
+> ~/devep/tutor/git/grit/History.txt
+	*	1570820361	0
+	"	1	0
+	^	14	4
+	.	14	3
+	+	10	0
+	+	14	3
+
+> ~/devep/tutor/git/grit/benchmarks.rb
+	*	1570737709	0
+	"	7	11
+	^	7	12
+	.	7	11
+	+	8	1
+	+	7	11
+
+> ~/devep/tutor/git/grit/tags
+	*	1570737280	0
+	"	711	0
+
+> ~/devep/tutor/git/grit/add
+	*	1570737116	0
+	"	1	0
+
+> ~/devep/tutor/git/grit/benchmarks.txt
+	*	1570736910	0
+	"	1	0
+
+> ~/devep/tutor/git/grit/README
+	*	1570736834	0
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
+
+> ~/.gitconfig
+	*	1570651427	0
+	"	1	0
