@@ -44,16 +44,16 @@
 
 .tourtrans_day_head5
 {
-font-size: 12px;
-font-weight: bold;
-color: #404040;
-margin: 0;
-padding: 0;
-border: 0;
-outline: 0;
-font-style: inherit;
-font-family: Arial, Helvetica, sans-serif;
-display: inline;
+	font-size: 12px;
+	font-weight: bold;
+	color: #404040;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-style: inherit;
+	font-family: Arial, Helvetica, sans-serif;
+	display: inline;
 
 }
 
@@ -74,20 +74,54 @@ display: inline;
 }
 
 
-.tourtans_info
+.tourtans_info_inline
 {
-
-	
+	color: rgb(79, 79, 79);
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	margin: inherit;
+	padding: inherit;
+	border: 0;
+	outline: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	vertical-align: baseline;	
+	display: inline;
 }
 
 
-.tourtrans_critical_info
+.tourtrans_critical_info_inline
 {
-color: #FF0000;
-font-size: 100%;
-font-family: Arial, Helvetica, sans-serif;
-vertical-align: baseline;
-font-weight: inherit;
-font-style: inherit;
+	color: #FF0000;
+	font-size: 12px;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	vertical-align: baseline;	
+	display: inline;
+
 }
 
+.tourtans_critical_warn_inline
+{
+	color: #FF0000;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	vertical-align: baseline;	
+	display: inline;
+}
+
+.tourtrans_link_color{
+	color: #fcfdfe;
+	text-decoration: underline;
+}
